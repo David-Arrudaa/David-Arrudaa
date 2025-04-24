@@ -10,7 +10,7 @@
 
 ### ✨ Sobre mim
 
-Sou o David Vinicius, um estudante entusiasta de tecnologia que adora transformar ideias em soluções úteis. Estou me especializando no desenvolvimento *back-end* com Java, sempre com foco em *resolver problemas reais* e aprender com a prática.
+Sou um estudante entusiasta de tecnologia que adora transformar ideias em soluções úteis. Estou me especializando no desenvolvimento *back-end* com Java, sempre com foco em *resolver problemas reais* e aprender com a prática.
 
 Atualmente curso *Gestão da Tecnologia da Informação* na FATEC Tatuí, onde também atuo como *representante de turma* e *monitor de algoritmos*. Gosto de ajudar outras pessoas a aprender, porque acredito que crescer junto é o caminho mais eficiente.
 
