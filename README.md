@@ -16,7 +16,7 @@
 
 Sou um entusiasta da tecnologia que adora transformar ideias em realidade. Minha jornada acadêmica e projetos pessoais me proporcionaram uma base sólida tanto no desenvolvimento **back-end** quanto no **front-end**.
 
-Atualmente, curso **Gestão da Tecnologia da Informação** na FATEC Tatuí, onde também atuo como **representante de turma** e fui **monitor de Algoritmos e Lógica de Programação**. Gosto de ajudar outras pessoas a aprender, pois acredito que o crescimento colaborativo é o caminho mais rápido para a excelência.
+Atualmente, curso **Gestão da Tecnologia da Informação** na FATEC Tatuí, onde também atuo como **representante de turma** e sou **monitor de Algoritmos e Lógica de Programação**. Gosto de ajudar outras pessoas a aprender, pois acredito que o crescimento colaborativo é o caminho mais rápido para a excelência.
 
 Estou em constante evolução, buscando sempre novos desafios e aprendizados para construir uma carreira sólida como desenvolvedor.
 
